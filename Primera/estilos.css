@@ -1,0 +1,31 @@
+/*Selectores*/
+
+body
+{
+	background: #040e11;
+	font-family: verdana;
+}
+
+h1
+{
+	
+	color: #dfe6e9;
+	font-size: 50px;
+}
+
+hr
+{
+	height: 10px;
+	color: #0984e3;
+	background: #6ee004;
+	border-radius: 8px;
+	border: 2px solid #3114d1;
+}
+
+p
+{
+	font-size: 200px;
+	color: #ca1a1a;
+	text-align: center;
+	margin: 10px;
+}
